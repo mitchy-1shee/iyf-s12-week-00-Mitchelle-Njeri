@@ -14,4 +14,4 @@ HTML/CSS
 JavaScript
 
 ## How to Reach me 
-Email.mitchellenjeri766@gmail.com
+Email . mitchellenjeri766@gmail.com
