@@ -14,4 +14,10 @@ HTML/CSS
 JavaScript
 
 ## How to Reach Me
-- Email: mitchellenjeri766@gmail.com
+- Email: mitchellenjeri766@gmail
+ 
+git config --global user.name mitch-1shee
+git config --global user.email mitchellenjeri766@gmail.com
+git config --global --list "user name and email"
+
+  
