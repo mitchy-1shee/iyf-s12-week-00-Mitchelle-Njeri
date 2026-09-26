@@ -13,11 +13,5 @@ this repo is for assignment submission week zero
 HTML/CSS
 JavaScript
 
-## How to Reach Me
-- Email: mitchellenjeri766@gmail
- 
-git config --global user.name mitch-1shee
-git config --global user.email mitchellenjeri766@gmail.com
-git config --global --list "user name and email"
-
-  
+## How to Reach me 
+Email.mitchellenjeri766@gmail.com
