@@ -15,13 +15,3 @@ JavaScript
 
 ## How to Reach Me
 - Email: mitchellenjeri766@gmail.com
-
-MITCHELLE NJERI@Mitchy-1shee MINGW64 ~ (master)
-$ git config --global user.name mitchy-1shee
-
-MITCHELLE NJERI@Mitchy-1shee MINGW64 ~ (master)
-$ git config --global user.email mitchellenjeri766@gmail.com
-
-MITCHELLE NJERI@Mitchy-1shee MINGW64 ~ (master)
-$git config --list "user email and name"
-
