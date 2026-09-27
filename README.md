@@ -1,6 +1,6 @@
-# iyf-s12-week-00-
+#iyf-s12-week-00-Mitchelle njeri
 this repo is for assignment submission week zero
-# Hi, I'm Mitchelle Wanjiru
+# Hi, I'm Mitchelle Njeri
 
 ## About Me
 - I'm currently learning programming at an institution called International Youth Foundation.
@@ -15,3 +15,4 @@ JavaScript
 
 ## How to Reach me 
 Email . mitchellenjeri766@gmail.com
+ 
