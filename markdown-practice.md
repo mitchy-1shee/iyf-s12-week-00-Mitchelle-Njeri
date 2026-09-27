@@ -52,10 +52,8 @@ To compile your code **successfully**, you must use the *latest version* of the 
 
 
 ##**Code Block**
-```python
-
+`python
 ("Hello , world!")
-
 
 ##**Blockquote**
 >Practice more master alot.
