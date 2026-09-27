@@ -4,6 +4,7 @@
 ###This Semester.
 
 ##**Text formatting**
+
 To compile your code **successfully**, you must use the *latest version* of the complier by executing the `nmp run build` command.
 
 
