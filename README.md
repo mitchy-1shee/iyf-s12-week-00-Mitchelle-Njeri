@@ -1,3 +1,7 @@
+##setup
+user.name=mitch-1shee
+user.email=mitchellenjeri766@gmail.com
+
 #iyf-s12-week-00-Mitchelle njeri
 this repo is for assignment submission week zero
 # Hi, I'm Mitchelle Njeri
