@@ -53,16 +53,20 @@ To compile your code **successfully**, you must use the *latest version* of the 
 
 ##**Code Block**
 `python
+
 ("Hello , world!")
 
 ##**Blockquote**
 >Practice more master alot.
 
 ##**About Me**
+
 Hello! I am a creative story teller and aspiring writer who loves exploring the intersections of art and human resilience.
 
 ###**My Core Creative Skills**
+
 -*Character development*
+
 -*collaborative brainstorming*
 
 
